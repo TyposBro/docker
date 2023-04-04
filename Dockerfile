@@ -11,5 +11,5 @@ RUN java --version
 RUN mvn --version
 RUN chmod +x *.sh
 
-# EXPOSE port
+EXPOSE 8080
 # CMD [ "./run.sh" ]
