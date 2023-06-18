@@ -4,24 +4,14 @@
 ./run.sh
 ```
 
-# PART II
+## PART I
 
-#### Person API
+Made a milestone3 branch
 
-CRUD operations for `/person` api
+## PART II
 
-#### Blob API
+Changed @RequestParam to @BodyParam
 
-Binary UPLOAD and DELETE operations for `/blob` api
+## PART III
 
-#### Record API
-
-CRUD operations for `/record` api
-
-## complete documentation on each api and required/optional params can be found [here](http://localhost:8080/swagger-ui)
-
-# PART III
-
-There are 10 test cases for `/record` and `/rerson` APIs,
-since blob api containts simple operations on binary, we thought it's not nececarry
-to implement Unit tests.
+We used ReactJS instead and built it with npm run build which can be found on
